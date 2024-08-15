@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+
+#titulo {
+    color: red;
+    text-align: center;
+}
+
+.texto-paragrafo {
+    text-align: center;
+}
+
+.entradas-usuario {
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.rodape {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
